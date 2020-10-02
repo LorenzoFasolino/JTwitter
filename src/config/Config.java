@@ -7,7 +7,7 @@ package config;
 public class Config {
 	
 	
-	public static String APIKEY = "nmRfqyEGW8f0DnQpKtGQYk6KL"; //apikey
-	public static String APISECRET = "b3qdocNejtTTiTIDFUy58uAEdGRgdgeXa2NQrwoGkwLXgmrMaT"; //apisecret
+	public static String APIKEY = ""; //apikey
+	public static String APISECRET = ""; //apisecret
 
 }
